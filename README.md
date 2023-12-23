@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oklys, an inspiring <a href="https://linkedin.com/in/Oklys">IT Professional</a></h1>
+<h1>Hi, I'm Oklys, an inspiring <a href="https://linkedin.com/in/Oklys">IT Professional.</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
